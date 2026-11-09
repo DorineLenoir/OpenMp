@@ -1,0 +1,23 @@
+CMakeFiles/openmp_lab.dir/src/sobel.c.obj: \
+ C:\Users\dodol\Documents\EII\5A\PPEM\openmp_lab-v261008\src\sobel.c \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/string.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/errno.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/math.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/omp.h \
+ C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/include/sobel.h

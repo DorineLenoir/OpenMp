@@ -1,0 +1,3 @@
+C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build/CMakeFiles/openmp_lab.dir
+C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build/CMakeFiles/edit_cache.dir
+C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build/CMakeFiles/rebuild_cache.dir

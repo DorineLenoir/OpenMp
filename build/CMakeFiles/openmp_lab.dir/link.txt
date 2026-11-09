@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\openmp_lab.dir/objects.a
+C:\ProgramData\mingw64\mingw64\bin\ar.exe qc CMakeFiles\openmp_lab.dir/objects.a @CMakeFiles\openmp_lab.dir\objects1.rsp
+C:\ProgramData\mingw64\mingw64\bin\gcc.exe  -fopenmp -g -g -pg -Wall -Wl,--whole-archive CMakeFiles\openmp_lab.dir/objects.a -Wl,--no-whole-archive -o Debug\openmp_lab.exe -Wl,--out-implib,libopenmp_lab.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\openmp_lab.dir\linkLibs.rsp

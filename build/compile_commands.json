@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build",
+  "command": "C:\\ProgramData\\mingw64\\mingw64\\bin\\gcc.exe -DPROJECT_ROOT_PATH=\\\"C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008\\\" @CMakeFiles\\openmp_lab.dir\\includes_C.rsp  -fopenmp -g -g -pg -Wall -o CMakeFiles\\openmp_lab.dir\\src\\clock.c.obj -c C:\\Users\\dodol\\Documents\\EII\\5A\\PPEM\\openmp_lab-v261008\\src\\clock.c",
+  "file": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/src/clock.c",
+  "output": "CMakeFiles/openmp_lab.dir/src/clock.c.obj"
+},
+{
+  "directory": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build",
+  "command": "C:\\ProgramData\\mingw64\\mingw64\\bin\\gcc.exe -DPROJECT_ROOT_PATH=\\\"C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008\\\" @CMakeFiles\\openmp_lab.dir\\includes_C.rsp  -fopenmp -g -g -pg -Wall -o CMakeFiles\\openmp_lab.dir\\src\\main.c.obj -c C:\\Users\\dodol\\Documents\\EII\\5A\\PPEM\\openmp_lab-v261008\\src\\main.c",
+  "file": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/src/main.c",
+  "output": "CMakeFiles/openmp_lab.dir/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build",
+  "command": "C:\\ProgramData\\mingw64\\mingw64\\bin\\gcc.exe -DPROJECT_ROOT_PATH=\\\"C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008\\\" @CMakeFiles\\openmp_lab.dir\\includes_C.rsp  -fopenmp -g -g -pg -Wall -o CMakeFiles\\openmp_lab.dir\\src\\md5.c.obj -c C:\\Users\\dodol\\Documents\\EII\\5A\\PPEM\\openmp_lab-v261008\\src\\md5.c",
+  "file": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/src/md5.c",
+  "output": "CMakeFiles/openmp_lab.dir/src/md5.c.obj"
+},
+{
+  "directory": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build",
+  "command": "C:\\ProgramData\\mingw64\\mingw64\\bin\\gcc.exe -DPROJECT_ROOT_PATH=\\\"C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008\\\" @CMakeFiles\\openmp_lab.dir\\includes_C.rsp  -fopenmp -g -g -pg -Wall -o CMakeFiles\\openmp_lab.dir\\src\\sobel.c.obj -c C:\\Users\\dodol\\Documents\\EII\\5A\\PPEM\\openmp_lab-v261008\\src\\sobel.c",
+  "file": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/src/sobel.c",
+  "output": "CMakeFiles/openmp_lab.dir/src/sobel.c.obj"
+},
+{
+  "directory": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build",
+  "command": "C:\\ProgramData\\mingw64\\mingw64\\bin\\gcc.exe -DPROJECT_ROOT_PATH=\\\"C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008\\\" @CMakeFiles\\openmp_lab.dir\\includes_C.rsp  -fopenmp -g -g -pg -Wall -o CMakeFiles\\openmp_lab.dir\\src\\trace.c.obj -c C:\\Users\\dodol\\Documents\\EII\\5A\\PPEM\\openmp_lab-v261008\\src\\trace.c",
+  "file": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/src/trace.c",
+  "output": "CMakeFiles/openmp_lab.dir/src/trace.c.obj"
+},
+{
+  "directory": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build",
+  "command": "C:\\ProgramData\\mingw64\\mingw64\\bin\\gcc.exe -DPROJECT_ROOT_PATH=\\\"C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008\\\" @CMakeFiles\\openmp_lab.dir\\includes_C.rsp  -fopenmp -g -g -pg -Wall -o CMakeFiles\\openmp_lab.dir\\src\\yuvDisplay.c.obj -c C:\\Users\\dodol\\Documents\\EII\\5A\\PPEM\\openmp_lab-v261008\\src\\yuvDisplay.c",
+  "file": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/src/yuvDisplay.c",
+  "output": "CMakeFiles/openmp_lab.dir/src/yuvDisplay.c.obj"
+},
+{
+  "directory": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/build",
+  "command": "C:\\ProgramData\\mingw64\\mingw64\\bin\\gcc.exe -DPROJECT_ROOT_PATH=\\\"C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008\\\" @CMakeFiles\\openmp_lab.dir\\includes_C.rsp  -fopenmp -g -g -pg -Wall -o CMakeFiles\\openmp_lab.dir\\src\\yuvRead.c.obj -c C:\\Users\\dodol\\Documents\\EII\\5A\\PPEM\\openmp_lab-v261008\\src\\yuvRead.c",
+  "file": "C:/Users/dodol/Documents/EII/5A/PPEM/openmp_lab-v261008/src/yuvRead.c",
+  "output": "CMakeFiles/openmp_lab.dir/src/yuvRead.c.obj"
+}
+]
